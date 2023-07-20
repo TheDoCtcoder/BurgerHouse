@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/BurgerHouse/static/css/main.41c3f64b.css",
-    "main.js": "/BurgerHouse/static/js/main.a84bcc7c.js",
-    "static/media/burger-hero-top.png": "/BurgerHouse/static/media/burger-hero-top.01d2f5acc2d8bf51ebc6.png",
-    "static/media/LastProducts-1.jpg": "/BurgerHouse/static/media/LastProducts-1.96844d38adc51882ecd6.jpg",
-    "static/media/LastProducts-3.jpg": "/BurgerHouse/static/media/LastProducts-3.1d0fdf670a5f99781a8e.jpg",
-    "static/media/LastProducts-2.jpg": "/BurgerHouse/static/media/LastProducts-2.976c66add7bdebd2e8ee.jpg",
-    "static/media/bg-food.jpg": "/BurgerHouse/static/media/bg-food.439909da1185900df67e.jpg",
-    "static/media/Logo-burger-house.svg": "/BurgerHouse/static/media/Logo-burger-house.9d092860e628a98eda78c65507ab6b4f.svg",
-    "static/media/ico-bag-clickAndCollect.svg": "/BurgerHouse/static/media/ico-bag-clickAndCollect.34cb427c017a69507dd6a9a31c4d29aa.svg",
-    "index.html": "/BurgerHouse/index.html",
-    "main.41c3f64b.css.map": "/BurgerHouse/static/css/main.41c3f64b.css.map",
-    "main.a84bcc7c.js.map": "/BurgerHouse/static/js/main.a84bcc7c.js.map"
+    "main.css": "/static/css/main.41c3f64b.css",
+    "main.js": "/static/js/main.a7eea83e.js",
+    "static/media/burger-hero-top.png": "/static/media/burger-hero-top.01d2f5acc2d8bf51ebc6.png",
+    "static/media/LastProducts-1.jpg": "/static/media/LastProducts-1.96844d38adc51882ecd6.jpg",
+    "static/media/LastProducts-3.jpg": "/static/media/LastProducts-3.1d0fdf670a5f99781a8e.jpg",
+    "static/media/LastProducts-2.jpg": "/static/media/LastProducts-2.976c66add7bdebd2e8ee.jpg",
+    "static/media/bg-food.jpg": "/static/media/bg-food.439909da1185900df67e.jpg",
+    "static/media/Logo-burger-house.svg": "/static/media/Logo-burger-house.9d092860e628a98eda78c65507ab6b4f.svg",
+    "static/media/ico-bag-clickAndCollect.svg": "/static/media/ico-bag-clickAndCollect.34cb427c017a69507dd6a9a31c4d29aa.svg",
+    "index.html": "/index.html",
+    "main.41c3f64b.css.map": "/static/css/main.41c3f64b.css.map",
+    "main.a7eea83e.js.map": "/static/js/main.a7eea83e.js.map"
   },
   "entrypoints": [
     "static/css/main.41c3f64b.css",
-    "static/js/main.a84bcc7c.js"
+    "static/js/main.a7eea83e.js"
   ]
 }
