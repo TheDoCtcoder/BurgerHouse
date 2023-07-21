@@ -1,6 +1,7 @@
 import React from 'react'
 import HeroTop from '../components/marketing/pageSections/HeroTop'
 import LastProducts from '../components/marketing/pageSections/LastProducts'
+import Products from '../components/marketing/pageSections/Products'
 
 
 export default function Homepage() {
@@ -8,6 +9,7 @@ export default function Homepage() {
   <>
   <HeroTop/>
   <LastProducts/>
+  <Products/>
   </>
     )
 }
