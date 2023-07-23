@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/BurgerHouse/static/css/main.e4c8944b.css",
-    "main.js": "/BurgerHouse/static/js/main.e7ba7609.js",
+    "main.css": "/BurgerHouse/static/css/main.82d429f6.css",
+    "main.js": "/BurgerHouse/static/js/main.e7e2cad8.js",
     "static/media/burger-hero-top.png": "/BurgerHouse/static/media/burger-hero-top.01d2f5acc2d8bf51ebc6.png",
     "static/media/Product-1.jpg": "/BurgerHouse/static/media/Product-1.d0c49ebdd1f1b3421a83.jpg",
     "static/media/Product-3.jpg": "/BurgerHouse/static/media/Product-3.b95213431ef9066d0776.jpg",
     "static/media/Product-2.jpg": "/BurgerHouse/static/media/Product-2.504688454c23bb02a7b1.jpg",
+    "static/media/Jorginho-1067777.jpg": "/BurgerHouse/static/media/Jorginho-1067777.99b4a2ac4d6d66ab1cd4.jpg",
     "static/media/LastProducts-1.jpg": "/BurgerHouse/static/media/LastProducts-1.96844d38adc51882ecd6.jpg",
     "static/media/LastProducts-3.jpg": "/BurgerHouse/static/media/LastProducts-3.1d0fdf670a5f99781a8e.jpg",
     "static/media/LastProducts-2.jpg": "/BurgerHouse/static/media/LastProducts-2.976c66add7bdebd2e8ee.jpg",
@@ -13,11 +14,11 @@
     "static/media/Logo-burger-house.svg": "/BurgerHouse/static/media/Logo-burger-house.9d092860e628a98eda78c65507ab6b4f.svg",
     "static/media/ico-bag-clickAndCollect.svg": "/BurgerHouse/static/media/ico-bag-clickAndCollect.34cb427c017a69507dd6a9a31c4d29aa.svg",
     "index.html": "/BurgerHouse/index.html",
-    "main.e4c8944b.css.map": "/BurgerHouse/static/css/main.e4c8944b.css.map",
-    "main.e7ba7609.js.map": "/BurgerHouse/static/js/main.e7ba7609.js.map"
+    "main.82d429f6.css.map": "/BurgerHouse/static/css/main.82d429f6.css.map",
+    "main.e7e2cad8.js.map": "/BurgerHouse/static/js/main.e7e2cad8.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4c8944b.css",
-    "static/js/main.e7ba7609.js"
+    "static/css/main.82d429f6.css",
+    "static/js/main.e7e2cad8.js"
   ]
 }
