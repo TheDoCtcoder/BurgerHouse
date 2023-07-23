@@ -3,6 +3,7 @@ import HeroTop from '../components/marketing/pageSections/HeroTop'
 import LastProducts from '../components/marketing/pageSections/LastProducts'
 import Products from '../components/marketing/pageSections/Products'
 import Event from '../components/marketing/pageSections/Event'
+import Booking from '../components/marketing/pageSections/Booking'
 
 
 export default function Homepage() {
@@ -14,6 +15,9 @@ export default function Homepage() {
   <Event>
     
   </Event>
+  <Booking>
+    
+  </Booking>
   </>
     )
 }
