@@ -5,11 +5,13 @@ export default function Heading(props) {
         children,
         variant,
         theme, // style
-        display // couleur
+        display, // couleur
+        alignement,
+        className
     } =props
 
-    const classDefault =" mt-5 uppercase "
-    let font, color
+    const classDefault ="uppercase "
+    let font, color, align
 
     switch (theme) {
         case "secondary": 
@@ -31,21 +33,41 @@ export default function Heading(props) {
             color="text-secondary"
             break;
     }
+    switch (alignement) {
+        case "center":
+            align="justify-center"
+            break;
+        case "right":
+            align="justify-end"
+            break;
+    
+        default:
+            align="justify-start"
+            break;
+    }
 
     switch (variant) {
         case "h3":
             return (
-                <div className='flex items-center justify-center my-5'>
-                    <h3 className={`${classDefault} text-2xl ${font} ${color}`}>
+                <div className={`flex ${align}`}>
+                    <h3 className={`${classDefault}  ${className} text-2xl ${font} ${color}`}>
                         {children}
                     </h3>
+                </div>
+            )
+        case "h4":
+            return (
+                <div className={`flex ${align}`}>
+                    <h4 className={`${classDefault} ${className}  text-lg ${font} ${color}`}>
+                        {children}
+                    </h4>
                 </div>
             )
 
         default:
             return (
-                <div className='flex items-center justify-center my-5'>
-                    <h2 className={` ${theme === "secondary" ? "text-5xl" : "text-3xl"}  ${classDefault} ${font} ${color}`}>
+                <div className={`flex ${align}`}>
+                    <h2 className={` ${theme === "secondary" ? "text-5xl" : "text-3xl"}  ${classDefault} ${className}  ${font} ${color}`}>
                         {children}
                     </h2>
                 </div>
